@@ -2,14 +2,14 @@
 
 ### Documents Information ###
 
-** .csv file **
+**.csv file**
 
-** Source code **
+**Source code**
 
 ### Project Mission ###
 
 ### State of the project ###
 
-** Must have features ** 
+**Must have features** 
 
-** Nice-to-have features **
+**Nice-to-have features**
