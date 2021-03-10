@@ -18,6 +18,23 @@ Libraries that i used :
 
 ### Project Mission ###
 
+### Dataset explained ###
+> Sometime it can be confusing in what does each variable translate in real life and thus what does it mean. 
+> This is important to understand to be able to make sense of the data, and later on to know what decision to take in term of dleaning and preprocessing that allow us to keep a meaningful data while making it ready to work.
+
+
+### Work-flow ###
+
+First step : Get and understand the dataset
+
+Importing required Libraries (ex:Pandas)
+Creating a dataframe out of the original .csv file
+First check of the dataset and understanding the different variables and values
+
+Second step : Start of the cleaning
+
+1 / Check out for missing values : .isnull().sum() functions
+
 ### Choices Explained ###
 
 ### State of the project ###
