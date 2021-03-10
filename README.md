@@ -63,6 +63,7 @@ Aswell it can highlights the redundancy of a term written in different way, and 
 By exemple : [tow truck, Tow Truck, TOW TRUCK, tow Truck, Tow truck] , this 5 items from that list represent the same type of truck and therefore we could adapt their spelling resulting, for example, in having only [Tow Truck] left as unique value
 
 * **3 / Reducing the amount of column**
+
 Here, after I noticed that some columns were missing values, i also noticed that for our purpose we could easily reduce the amount of columns in our dataset without losing the meaning of it. 
 By exemple: the 5 different vehicules columns could be put in one
 
