@@ -34,16 +34,16 @@ Information concerning the dataset is well explained and can be find on the webs
 
 ### Work-flow ###
 
-First step : Get and understand the dataset
+:rocket: ####First step : Get and understand the dataset
 
 Importing required Libraries (ex:Pandas)
 Creating a dataframe out of the original .csv file
 First check of the dataset and understanding the different variables and values (see here above **Dataset explained**)
 
 
-Second step : Start of the cleaning
+:rocket: #### Second step : Start of the cleaning
 
-1 / Check out for missing values : .isnull().sum() functions
+* **1 / Check out for missing values : .isnull().sum() functions**
 
 It gives us an understanding and a vision on where are the missing values, in which columns.
 We can then ask ourselves some questions such as : 
@@ -51,21 +51,24 @@ Is this column really relevant or meaningful?
 Can I, Should I drop it?
 Can I find a way to fill the missing values?
 
-2 / Check the unique values of each columns : .unique() 
+* **2 / Check the unique values of each columns : .unique()** 
 
 Checking the unique values in each columns allow me to compare some columns between eachother. 
 Aswell it can highlights the redundancy of a term written in different way, and therefore that could be object to consolidation by harmonizing all the different spelling as one
 By exemple : [tow truck, Tow Truck, TOW TRUCK, tow Truck, Tow truck] , this 5 items from that list represent the same type of truck and therefore we could adapt their spelling resulting, for example, in having only [Tow Truck] left as unique value
 
-3 / Reducing the amount of column
+* **3 / Reducing the amount of column**
 Here, after I noticed that some columns were missing values, i also noticed that for our purpose we could easily reduce the amount of columns in our dataset without losing the meaning of it. 
 By exemple: the 5 different vehicules columns could be put in one
 
+To do so I created a new column gathering the values of the different columns i wanted and could 'merge' together.
+For the 'street_name' newly created column, gathering the 3 other column concerning the street name where the accident occured, I had first to remove the different 'NaN' values that i repaced with empty strings ("") 
 
 
-4/ Consolidation
 
-5/ 
+* **4/ Consolidation**
+
+* **5/ Duplicates**
 
 ### Choices Explained ###
 
