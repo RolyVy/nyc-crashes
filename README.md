@@ -18,6 +18,10 @@ Libraries that i used :
 
 ### Project Mission ###
 
+Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his police department, the NYPD, collected information about all the traffic accidents that happened in New York City. However, they are too busy eating doughnuts to correctly encode each traffic indicent, and so it happens that the dataset that we got here is quite dirty, has a lot of missing values and can't be used by a machine learning model as is. Can you help Mr. de Blasio and shine a new light on his police department ?
+
+**What he wants exactly is to predict which streets are the most dangerous while visiting the city that never sleeps.**
+
 ### Dataset explained ###
 > Sometime it can be confusing in what does each variable translate in real life and thus what does it mean. 
 > This is important to understand to be able to make sense of the data, and later on to know what decision to take in term of cleaning and preprocessing that allow us to keep a meaningful data while making it ready to work.
