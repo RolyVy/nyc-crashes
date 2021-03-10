@@ -2,17 +2,17 @@
 
 > ### Documents Information ###
 
-**Original .csv file**
+**original_data_100000.csv file**
 
 You will find here the original dataset i started to work with.
 
-**Cleaned .csv file**
+**cleaned_data_100000.csv file**
 
 You will find here the final .csv file with the cleaned dataset. 
 
 **Source code file**
 
-You will find here the source code that i wrote to be able to clean the original dataset and create the final .csv file (see here above).
+You will find here the source code that i wrote to be able to clean the original dataset and create the final **cleaned_data_100000.csv** file (see here above).
 
 Libraries that i used : 
 
@@ -53,6 +53,8 @@ By exemple : [tow truck, Tow Truck, TOW TRUCK, tow Truck, Tow truck] , this 5 it
 3 / Reducing the amount of column
 Here, after I noticed that some columns were missing values, i also noticed that for our purpose we could easily reduce the amount of columns in our dataset without losing the meaning of it. 
 By exemple: the 5 different vehicules columns could be put in one
+
+
 
 4/ Consolidation
 
