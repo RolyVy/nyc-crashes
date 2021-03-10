@@ -15,7 +15,7 @@ You will find here the final .csv file with the cleaned dataset.
 
 You will find here a mini version of the dataset in a .csv file, containing info on the streets and on the amount of people killed or injured.
 
-* **Source code file**
+* **NYC_Crashes_Source_Code.ipynb file**
 
 You will find here the source code that i wrote to be able to clean the original dataset and create the final **cleaned_data_100000.csv** file (see here above).
 
