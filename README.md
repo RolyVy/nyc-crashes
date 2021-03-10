@@ -7,8 +7,13 @@
 You will find here the original dataset i started to work with.
 
 * **cleaned_data_100000.csv file**
+> Work in progress
 
 You will find here the final .csv file with the cleaned dataset. 
+
+* **extremely_simplified_data_100000.csv file**
+
+You will find here a mini version of the dataset in a .csv file, containing info on the streets and on the amount of people killed or injured.
 
 * **Source code file**
 
