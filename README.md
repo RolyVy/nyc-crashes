@@ -70,7 +70,7 @@ For the 'street_name' newly created column, gathering the 3 other column concern
 
 * **5/ Duplicates**
 
-#### :rocket: Implement some features
+#### :rocket: Third step : Implement some features
 
 
 ### Choices Explained ###
