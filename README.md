@@ -34,14 +34,14 @@ Information concerning the dataset is well explained and can be find on the webs
 
 ### Work-flow ###
 
-:rocket: ####First step : Get and understand the dataset
+#### :rocket: First step : Get and understand the dataset
 
 Importing required Libraries (ex:Pandas)
 Creating a dataframe out of the original .csv file
 First check of the dataset and understanding the different variables and values (see here above **Dataset explained**)
 
 
-:rocket: #### Second step : Start of the cleaning
+#### :rocket: Second step : Start of the cleaning
 
 * **1 / Check out for missing values : .isnull().sum() functions**
 
